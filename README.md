@@ -1,7 +1,1 @@
-learning microservices and backend tech including:
-
-- Redis
-- PostgreSQL
-- Kafka
-- Docker
-- Kubernetes
+Project used to learn microservice architecture and popular backend technologies.
